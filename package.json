@@ -1,0 +1,25 @@
+{
+  "name": "twitch-notif",
+  "version": "1.0.0",
+  "description": "mew-twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.5.0",
+    "@discordjs/rest": "^1.6.0",
+    "discord.js": "^13.17.1",
+    "fs": "^0.0.1-security",
+    "phin": "^3.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrmn7/twitch-notif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lrmn7/twitch-notif/issues"
+  },
+  "homepage": "https://github.com/lrmn7/twitch-notif#readme"
+}
